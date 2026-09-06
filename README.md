@@ -284,23 +284,11 @@ Granular uninstall options:
 
 ## Licensing
 
-PAKA is dual-licensed to accommodate both open-source and commercial use:
+PAKA is available under the GNU General Public License, version 3 or (at your option) any later version. See [LICENSE](LICENSE) for the copyright notice and license terms.
 
-### Open Source License (GPLv3)
-You may use, modify, and redistribute PAKA under the terms of the GNU General Public License v3 (GPLv3). This means:
-- You can freely use PAKA for personal and open-source projects
-- You can modify the source code and distribute your modifications
-- Any derivative works must also be licensed under the GPLv3
-- See the [LICENSE](LICENSE) file for the full GPLv3 text
+The GPL permits commercial use and distribution, subject to its terms. Private modifications do not have to be published; distributing covered modified versions requires meeting the GPL's source and licensing obligations.
 
-### Commercial License
-If you wish to use PAKA in proprietary, closed-source, or commercial products, a separate commercial license is required. This includes:
-- Using PAKA in proprietary software
-- Distributing PAKA as part of a commercial product
-- Using PAKA in enterprise environments with proprietary modifications
-- Any use that would otherwise violate the GPLv3 terms
-
-**For commercial licensing inquiries, please contact:** hello@hoozter.com
+For a separate license allowing uses not permitted by the GPL, contact hello@hoozter.com.
 
 ## Repository
 
